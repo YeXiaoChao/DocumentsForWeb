@@ -1,6 +1,4 @@
-# tasteJs
-
-以梦为码，码梦一生！
+# 温故js系列
 
 1. [温故js系列（1）-基本数据类型和引用数据类型判断&存储访问&类型转换][1]
 2. [温故js系列（2）-快速排序&插入排序&选择排序&冒泡排序算法&优化][2]
@@ -20,34 +18,26 @@
 16. [温故js系列（16）-原型&原型链&原型继承][16]
 17. [温故js系列（17）-对相等==&严格相等===&代码里的那些判断][17]
 
-# 勘误
 
-如发现错误的地方，可以在相应的 issues 帮我斧正，或提出问题，一起讨论。
+# 来源
 
-如果喜欢或者有所启发，欢迎 star，对我是一种鼓励。
+[温故js系列][18]
 
-# License
-
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][18]进行许可。
-
-  [1]: https://github.com/xiaohuazheng/tasteJs/issues/2
-  [2]: https://github.com/xiaohuazheng/tasteJs/issues/3
-  [3]: https://github.com/xiaohuazheng/tasteJs/issues/4
-  [4]: https://github.com/xiaohuazheng/tasteJs/issues/5
-  [5]: https://github.com/xiaohuazheng/tasteJs/issues/6
-  [6]: https://github.com/xiaohuazheng/tasteJs/issues/7
-  [7]: https://github.com/xiaohuazheng/tasteJs/issues/12
-  [8]: https://github.com/xiaohuazheng/tasteJs/issues/11
-  [9]: https://github.com/xiaohuazheng/tasteJs/issues/20
-  [10]: https://github.com/xiaohuazheng/tasteJs/issues/13
-  [11]: https://github.com/xiaohuazheng/tasteJs/issues/19
-  [12]: https://github.com/xiaohuazheng/tasteJs/issues/18
-  [13]: https://github.com/xiaohuazheng/tasteJs/issues/8
-  [14]: https://github.com/xiaohuazheng/tasteJs/issues/9
-  [15]: https://github.com/xiaohuazheng/tasteJs/issues/16
-  [16]: https://github.com/xiaohuazheng/tasteJs/issues/17
-  [17]: https://github.com/xiaohuazheng/tasteJs/issues/10
-  [18]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
-
-
-
+  [1]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text01.md
+  [2]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text02.md
+  [3]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text03.md
+  [4]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text04.md
+  [5]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text05.md
+  [6]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text06.md
+  [7]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text07.md
+  [8]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text08.md
+  [9]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text09.md
+  [10]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text10.md
+  [11]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text11.md
+  [12]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text12.md
+  [13]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text13.md
+  [14]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text14.md
+  [15]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text15.md
+  [16]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text16.md
+  [17]:https://github.com/YeXiaoChao/DocumentsForWeb/blob/master/Javascript/温故js系列/text17.md
+  [18]:https://github.com/xiaohuazheng/tasteJs
